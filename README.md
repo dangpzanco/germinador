@@ -1,2 +1,2 @@
 # germinador
-Controlador de temperatura e humidade para germinador caseiro utilizando Arduino
+Controlador de temperatura e umidade para germinador caseiro utilizando Arduino
